@@ -1,0 +1,19 @@
+
+
+1. ejs
+
+npm install ejs
+
+створюємо папку views
+переносимо в неї index.html
+змінюємо розширення html на ejs
+
+
+https://www.youtube.com/watch?v=h2xQI7_HQT0
+09:07
+
+https://www.youtube.com/watch?v=NaYvJn5q30M
+13:14
+
+
+
